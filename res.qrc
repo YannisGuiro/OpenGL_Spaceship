@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ressources/asteroid.jpg</file>
+        <file>ressources/asteroid2.jpg</file>
+        <file>ressources/asteroid3.jpg</file>
+        <file>ressources/asteroid4.jpg</file>
+        <file>ressources/panel.png</file>
+        <file>ressources/panel_side.png</file>
+        <file>ressources/side_wing.png</file>
+        <file>ressources/space2.jpg</file>
+        <file>ressources/cyl_mid.png</file>
+        <file>ressources/cyl_top_1.png</file>
+        <file>ressources/mid_sides.png</file>
+        <file>ressources/mid_light.png</file>
+        <file>ressources/top_wing.png</file>
+        <file>closed_frontal_palm.xml</file>
+        <file>fist.xml</file>
+        <file>palm.xml</file>
+        <file>ressources/ship_gray.jpg</file>
+        <file>ressources/base.jpg</file>
+    </qresource>
+</RCC>
